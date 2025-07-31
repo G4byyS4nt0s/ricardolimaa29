@@ -50,7 +50,7 @@ Atualmente na academia(pós-graduação), nutro uma paixão única: criar "arte"
 <br>
 <div align="center">
   <a href="https://open.spotify.com/user/21k3nye57fpgsxorxbahnht3a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=2&unique=false" alt="Musicas recem tocadas." width="500"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a](https://open.spotify.com/user/31eippqmobb7gagujxrcet7cxkw4?si=2mUyccGFSQ2ac-PacccClA&count=2&unique=false" alt="Musicas recem tocadas." width="500"/>
   </a>
 </div>
 
